@@ -1,0 +1,16 @@
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\bin\Debug\netcoreapp3.1\AbovePremiere.exe
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\bin\Debug\netcoreapp3.1\AbovePremiere.deps.json
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\bin\Debug\netcoreapp3.1\AbovePremiere.runtimeconfig.json
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\bin\Debug\netcoreapp3.1\AbovePremiere.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\bin\Debug\netcoreapp3.1\AbovePremiere.dll
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\bin\Debug\netcoreapp3.1\AbovePremiere.pdb
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\obj\Debug\netcoreapp3.1\AbovePremiere.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\obj\Debug\netcoreapp3.1\AbovePremiere.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\obj\Debug\netcoreapp3.1\AbovePremiere.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\obj\Debug\netcoreapp3.1\AbovePremiere.AssemblyInfo.cs
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\obj\Debug\netcoreapp3.1\AbovePremiere.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\obj\Debug\netcoreapp3.1\AbovePremiere.dll
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\obj\Debug\netcoreapp3.1\AbovePremiere.pdb
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\obj\Debug\netcoreapp3.1\AbovePremiere.genruntimeconfig.cache
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\obj\Debug\netcoreapp3.1\AbovePremiere.Inicio.resources
+C:\Users\franc\Desktop\Plat Dev\AbovePremiere\AbovePremiere\obj\Debug\netcoreapp3.1\AbovePremiere.Vistas.Programa.resources
